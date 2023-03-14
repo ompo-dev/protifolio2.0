@@ -1,0 +1,74 @@
+{
+    "experiences": [
+        {
+            "company": "Tegma - Rs",
+            "link": "https://www.tegma.com.br",
+            "title": "Jovem Aprendiz",
+            "duration": "Fev 2021 - Dez 2022",
+            "desc": [
+                "Criação de automação de tarefas com Excel.",
+                "Criação de projetos para organização e digitalização do almoxarifado envolvendo React Js e React Native."
+            ]
+        },
+        {
+            "company": "Senac RS",
+            "link": "https://www.senacrs.com.br",
+            "title": "Tecnico em Informatica",
+            "duration": "Jun 2021 - Dez 2022",
+            "desc": [
+                "2 Módulos de Programção.",
+                "Módulo de Redes.",
+                "Módulo de Hardware."
+            ]
+        },
+        {
+            "company": "Colegio Fundação Bradesco",
+            "link": "https://fundacao.bradesco/",
+            "title": "Cursos",
+            "duration": "Nov 2016 - Nov 2019",
+            "desc": [
+                "Circuitos Elétricos.",
+                "Pelo meu destaque no curso de Robótica com 14 anos fui convidado a ser Instrutor de Robótica.",
+                "Eletricidade Básica.",
+                "Robótica.",
+                "2 Cursos de Criação de sites com Html5 Css3 e JavaScript.",
+                "2 Cursos de Lógica de programção.",
+                "Pacote Windows e suas ferramentas do Basico ao Avançado."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title":"Portfolio 2.0",
+            "image": "./images/project_4.png",
+            "desc": "Update do Portifolio 1.0, agora mais rapido e mais bonito.",
+            "skills": ["React Js","Css3","JavaScript","TypeScript"],
+            "github": "https://github.com/ompo-dev/Base-4-Telecom",
+            "link": "https://base4.netlify.app"
+        },
+        {
+            "title":"Site Empresarial",
+            "image": "./images/project_3.png",
+            "desc": "Site para empresa Base 4 Telecom. Obs: Site original da empresa não foi atualizado por questões de contrato com a Hospedagem.",
+            "skills": ["Html5","Css3","JavaScript"],
+            "github": "https://github.com/ompo-dev/Base-4-Telecom",
+            "link": "https://base4.netlify.app"
+        },
+        {
+            "title":"Crowdfunding - Web3.0",
+            "image": "./images/project_2.png",
+            "desc": "Crowdfunding em React Js na Web3.0 com transações em Crypto(ETH).",
+            "skills": ["React Js","Vite","Web3.0","Tailwind","Smart Contracts","JavaScript","TypeScript"],
+            "github": "https://github.com/ompo-dev/CrowdFunding",
+            "link": "https://crowdfunding-ompo.netlify.app"
+        },
+        {
+            "title":"Portfolio 1.0",
+            "image": "./images/project_1.png",
+            "desc": "Portfolio para apresentar meus trabalhos.",
+            "skills": ["React Js", "Tailwind","JavaScript","TypeScript"],
+            "github": "https://github.com/ompo-dev/portifolio",
+            "link": "https://ompo.vercel.app"
+        }
+    ]
+}
